@@ -9,7 +9,7 @@ Alle elver har et brukernavn i til skolen. Elever på Midtun skole har feks. 4-5
 
 Det er dette de bruker til å logge seg på multi smart øvinger med.
 
-Det er også laget to unlike `domener` koblet til dette brukernavnet:
+Det er også laget to `domener` koblet til dette brukernavnet:
 
 * `brukernavn`(at)bergensskolen.no
 * `fornavn.etternavn`(at)bergensskolen.com 
