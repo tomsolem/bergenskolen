@@ -5,7 +5,7 @@ Her bruker eleven `fornavn.etternavn`(at)bergensskolen.com
 
 For å logge seg på må man åpnet opp nettleser og skrive inn
 
-https://mail.google.com
+http://classroom.google.com/
 
 Du skal da få opp bildet under:
 ![google mail](/media/img/step01.png)
