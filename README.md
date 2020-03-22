@@ -1,37 +1,18 @@
-# Bergensskolen - tips og triks
+# Friday Theme
 
-Dette er mine private tips og triks. Jeg har ikke snakket med Bergen kommune om dette. 
+## A Bootstrap 4 portfolio and blog theme for Jekyll
 
-Innholdet kan fort bli utdatert. 
+* Example 1: This repo builds directly to GitHub pages, which is also the documentation:  https://sfreytag.github.io/friday-theme/
+* Example 2: my own homepage, http://www.freytag.org.uk
 
-## Elev - brukernavn
-Alle elver har et brukernavn i til skolen. Elever på Midtun skole har feks. 4-5 tall og bokstaver i brukernavnet. 
+## Get Started
 
-Det er dette de bruker til å logge seg på multi smart øvinger med.
+Follow the [install notes](https://sfreytag.github.io/friday-theme/projects/install.html).
 
-Det er også laget to `domener` koblet til dette brukernavnet:
+## Usage
 
-* `brukernavn`(at)bergensskolen.no
-* `fornavn.etternavn`(at)bergensskolen.com 
+The theme is free to use, but if you do use it, it would be great to hear from you. Email simon@freytag.org.uk - thanks!
 
-Dermed har eleven 3 ulike brukernavn å forholde seg til:
+## Jekyll Version
 
-- brukerkonto (det som brukes til f.eks. multismart)
-- bergensskolen.no (det som brukes mot Microsoft Office skytjenestene)
-- bergensskolen.com (det som brukes mot Google skytjenestene)
-
-f.eks. 
-
-`Ola Nordman` er elev i bergensskolen. Han har da 
-
-* brukernavn `abc123`
-* Microsoft sky: abc123(at)bergensskolen.no
-* Google sky: ola.nordmann(at)bergensskolen.com 
-
-MERK! `@ = (at)` i brukernavn over. 
-
-## Pålogging 
-
-### Pålogging Google 
-
-[Google skytjenester](google-paalogging.md)
+__Watch out!__ This theme uses {{site.baseurl}} throughout, so is not currently suitable for Jekyll 4. It works well with 3.8.5 and works well with GitHub Pages.

@@ -1,8 +1,13 @@
-- title: Hjem
+- title: Home
   href: index.html
 
-- title: Pålogging
-  href: google-paalogging.html
+- title: About
+  href: about.html
 
-- title: Post
+- title: Posts
   href: list/posts.html
+
+- title: Documentation
+  href: list/projects.html
+
+
