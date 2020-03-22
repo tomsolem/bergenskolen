@@ -10,7 +10,7 @@ title:       Hjemmeskole
 email:       'tom.solem@gmail.com'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'http://skole.tomsolem.no/' # The base hostname & protocol for your site
+url:         'http://skole.tomsolem.no' # The base hostname & protocol for your site
 github:      'tomsolem'
 
 markdown:  kramdown
