@@ -14,3 +14,4 @@ url:         'http://skole.tomsolem.no' # The base hostname & protocol for your 
 github:      'tomsolem'
 
 markdown:  kramdown
+remote_theme: ronv/sidey
