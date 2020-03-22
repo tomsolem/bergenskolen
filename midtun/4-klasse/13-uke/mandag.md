@@ -1,7 +1,0 @@
-# Mandag
-
-## Norsk
-
-## Mattematikk
-
-## Engelsk
