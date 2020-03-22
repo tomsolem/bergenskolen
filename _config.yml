@@ -1,4 +1,12 @@
-theme: jekyll-theme-cayman
+title: Hjemmeskole
+email: tom.solem@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  En side for å vise innhold til mine barn.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "skole.tomsolem.no" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  tomsolem
 
-title: Bergensskolen
-description: Hvordan bruke G-suite i Bergen kommune
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Pålogging
+permalink: /google-paalogging/
+---
+
 # Google skytjenester
 
 ## Pålogging
