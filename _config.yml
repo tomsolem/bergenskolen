@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 
 title: Hjemmeskole
+
+show_downloads: false

@@ -1,1 +1,2 @@
 # Hjemmeskole
+Velkommen til hjemmeskole
