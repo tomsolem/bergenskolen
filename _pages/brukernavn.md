@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: defaults/page
 title: Brukernavn
-permalink: /brukernavn/
+narrow: true
+permalink: brukernavn.html
+
 ---
 # Elev - brukernavn
 Alle elver har et brukernavn i til skolen. Elever på Midtun skole har feks. 4-5 tall og bokstaver i brukernavnet. 

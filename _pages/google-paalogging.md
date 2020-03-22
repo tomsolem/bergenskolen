@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: defaults/page
 title: Pålogging
-permalink: /google-paalogging/
+narrow: true
+permalink: google-paalogging.html
 ---
 
 # Google skytjenester
