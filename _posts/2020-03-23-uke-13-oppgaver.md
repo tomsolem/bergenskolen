@@ -1,5 +1,5 @@
 ---
-title: "4. tinn - Arbeid uke 13"
+title: "Arbeidplan uke 13 for 4 klasse Midtun skole"
 date: 2020-03-22T15:34:30-04:00
 categories:
   - arbeid
@@ -7,6 +7,7 @@ tags:
   - skole
   - uke
 ---
+Arbeidsplan for 4. klasse ved Midtun skole.
 Vi har lagt opp arbeidsplanen for uke 13 slik
 
 ![google mail](/media/img/timeplan-uke-13.png)
