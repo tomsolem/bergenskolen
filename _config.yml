@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hjemmeskole
-email:
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
  Hjemmeskole Midtun skole 2020 oppgaver ukeplaner
 twitter_username: username
