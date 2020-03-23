@@ -17,12 +17,12 @@ Vi har lagt opp arbeidsplanen for uke 13 slik
 
 ### Norsk
 
-* Gjør ferdig alle fire oppgavene på Salaby, rettskriving: https://skole.salaby.no/3-
-4/norsk/ov-pa-skriving/rettskriving
-* Ekstraoppgaver: (Kanal S, 5.-7.trinn) Rettskriving:
-https://skole.salaby.no/5-7/norsk/rettskriving/introduksjon-med-enheter
-* Alle: Les artikkelen «Blomeglad mammut» (ligger på hjemmesiden og i google
-classroom.
+* Gjør ferdig alle fire oppgavene på Salaby, rettskriving: [Salaby](https://skole.salaby.no/3-
+4/norsk/ov-pa-skriving/rettskriving)
+
+* Ekstraoppgaver: (Kanal S, 5.-7.trinn) Rettskriving: [Rettskriving](https://skole.salaby.no/5-7/norsk/rettskriving/introduksjon-med-enheter)
+* Alle: Les artikkelen [Blomeglad mammut](https://files.itslearning.com/data/397/open/co73037/6434468.pdf) (ligger på hjemmesiden og i google
+classroom)
 * Gjør klar et A4-ark. Lag en illustrasjon (tegning) fra noe av du leste om den
 blomsterglade mammuten. Husk å fyll hele arket, og bruk farger. Ta vare på
 tegningen til vi møtes på skolen igjen.
@@ -45,4 +45,4 @@ Svar på disse spørsmålene etterpå:
 
 ### Lesing 
 
-https://files.itslearning.com/data/397/open/co73037/6434468.pdf
+[Blomeglad mammut](https://files.itslearning.com/data/397/open/co73037/6434468.pdf)
