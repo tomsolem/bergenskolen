@@ -114,6 +114,9 @@ Jobb 15 min på Salaby på multiplikasjon og divisjon.
 # Fredag
 Matte/Gym, Norsk og lesing
 
+### Matte/Gym
+Se eget dokument på hjemmesiden/google classroom. Her er link til google-dokumentet:
+[Gym - fredag 27 mars](https://docs.google.com/document/d/1BFRw4Tk1XM82eSxJBCtk3Enand2D5Esg0thnAUBsiBA/edit?ts=5e749a23)
 
 ### Norsk 
 Les i Salto 4B om sammensatte ord, side 64 og 65. Skriv sammensatte ord fra den
@@ -122,3 +125,5 @@ blå rammen under oppgave 2 på side 65. Før inn i S-boken.
 * Les ordene på den gule post it-lappen øverst på side 65. Velg ut tre av linjene, og
   tegn det du leser på et ark, eller i S-boken.
 * Ekstra: Sammensatte ord på [Salaby](https://skole.salaby.no/3-4/norsk/ov-paskriving/sammensatte-ord)
+
+
