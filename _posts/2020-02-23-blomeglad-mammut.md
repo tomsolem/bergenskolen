@@ -1,4 +1,3 @@
-
 ---
 title: "Blomeglad mammut"
 date: 2020-03-23T15:34:30-04:00
@@ -7,6 +6,7 @@ categories:
 tags:
   - lese
 ---
+
 Danske forskarar har undersøkt bæsj frå mammut og funne ut at mykje av kosten bestod av små blomar. Då blomane forsvann, døydde mammuten ut. 
 
 *IRENE INFMN TJOIRVE*
