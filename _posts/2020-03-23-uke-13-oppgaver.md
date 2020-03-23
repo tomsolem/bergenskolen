@@ -7,13 +7,12 @@ tags:
   - skole
   - uke
 ---
-# Arbeidsplan for uke 13
-
 Vi har lagt opp arbeidsplanen for uke 13 slik
 
 ![google mail](/media/img/timeplan-uke-13.png)
 
-## Mandag
+# Mandag
+Norsk, uke oppgave i matte, lesing
 
 ### Norsk
 
@@ -46,3 +45,8 @@ Svar på disse spørsmålene etterpå:
 ### Lesing 
 
 [Blomeglad mammut](https://files.itslearning.com/data/397/open/co73037/6434468.pdf)
+
+# Tirsdag
+
+
+# Onsdag
