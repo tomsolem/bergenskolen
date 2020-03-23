@@ -57,8 +57,8 @@ plugins:
 
 author:
   name   : "Tom Solem"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Utvikler og arkitekt"
+  avatar : "/assets/images/me2.png"
+  bio    : "Jobber som Utvikler"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

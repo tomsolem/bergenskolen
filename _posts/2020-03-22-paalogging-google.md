@@ -11,7 +11,9 @@ tags:
 # Google skytjenester
 
 ## Pålogging
-Her bruker eleven `fornavn.etternavn`(at)bergensskolen.com
+Alle elever har fått et brukernavn på skolen. Dette brukes til f.eks. multi-smart pålogging. Normalt er dette første bokstav i `fornavn` og de to første bokkstavene i `etternavn`. Etterfult av et tall med tre siffer. 
+
+`Ola Nordmann` vil da f.eks. kunne ha `ono123` som brukernavn. Ved pålogging til Google classrom må man derfor skrive inn  `brukernavn`(at)bergensskolen.com
 
 For å logge seg på må man åpnet opp nettleser og skrive inn
 

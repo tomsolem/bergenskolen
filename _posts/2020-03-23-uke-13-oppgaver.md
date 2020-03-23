@@ -1,5 +1,5 @@
 ---
-title: "Arbeid uke 13"
+title: "4. tinn - Arbeid uke 13"
 date: 2020-03-22T15:34:30-04:00
 categories:
   - arbeid
@@ -125,5 +125,3 @@ blå rammen under oppgave 2 på side 65. Før inn i S-boken.
 * Les ordene på den gule post it-lappen øverst på side 65. Velg ut tre av linjene, og
   tegn det du leser på et ark, eller i S-boken.
 * Ekstra: Sammensatte ord på [Salaby](https://skole.salaby.no/3-4/norsk/ov-paskriving/sammensatte-ord)
-
-
